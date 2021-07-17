@@ -1,0 +1,61 @@
+body{
+    background: black;
+    margin: 0;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+header{
+    height: 70px;
+}
+.principal {
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 10px ;
+    margin-top: 10px;
+}
+header p{
+    margin: 0;
+    font-weight: bold;
+}
+.icon{
+    font-size: 45px;
+    float: left;
+    padding: 5px;
+    width:50px;
+}
+.name {
+    text-align: left;
+    font-size: 18px;
+    padding-top: 10px;
+    float: left;
+    margin:0 auto;
+    width:100px;  
+}
+.dots{
+    float: right;
+    text-align: right;
+    padding: 15px;
+    font-size: 30px;
+    width:100px;
+}
+.options{
+    font-size: 30px;
+    padding: 5px;
+}
+.last-one{
+    float: right;
+    padding: 5px;
+}
+.liked{
+    text-align: justify;
+    padding: 8px;
+    margin: 0;
+}
+.description{
+    text-align: justify;
+    padding: 8px;
+    margin: 0;
+}
+
+
+
